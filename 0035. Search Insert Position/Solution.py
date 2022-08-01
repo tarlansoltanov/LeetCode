@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Search Insert Position
-# ID : 35
+# ID : 0035
 # Link : https://leetcode.com/problems/search-insert-position/
 # Level : Easy
 # Language : Python

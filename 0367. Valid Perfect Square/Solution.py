@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Valid Perfect Square
-# ID : 367
+# ID : 0367
 # Link : https://leetcode.com/problems/valid-perfect-square/
 # Level : Easy
 # Language : Python

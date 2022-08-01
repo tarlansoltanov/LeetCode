@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : N-Queens
-# ID : 51
+# ID : 0051
 # Link : https://leetcode.com/problems/n-queens/
 # Level : Hard
 # Language : Python

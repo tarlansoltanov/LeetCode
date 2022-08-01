@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Binary Search
-# ID : 704
+# ID : 0704
 # Link : https://leetcode.com/problems/binary-search/
 # Level : Easy
 # Language : Python

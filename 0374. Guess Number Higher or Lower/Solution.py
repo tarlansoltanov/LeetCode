@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Guess Number Higher or Lower
-# ID : 374
+# ID : 0374
 # Link : https://leetcode.com/problems/guess-number-higher-or-lower/
 # Level : Easy
 # Language : Python

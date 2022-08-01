@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Merge Sorted Array
-# ID : 88
+# ID : 0088
 # Link : https://leetcode.com/problems/merge-sorted-array/
 # Level : Easy
 # Language : Python

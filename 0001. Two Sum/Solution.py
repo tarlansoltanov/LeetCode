@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Two Sum
-# ID : 1
+# ID : 0001
 # Link : https://leetcode.com/problems/two-sum/
 # Level : Easy
 # Language : Python

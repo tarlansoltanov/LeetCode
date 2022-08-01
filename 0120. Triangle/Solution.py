@@ -1,6 +1,6 @@
 # Author : tarlansoltanov
 # Name : Triangle
-# ID : 120
+# ID : 0120
 # Link : https://leetcode.com/problems/triangle/
 # Level : Medium
 # Language : Python
