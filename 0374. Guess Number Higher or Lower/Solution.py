@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Guess Number Higher or Lower
-# ID : 0374
-# Link : https://leetcode.com/problems/guess-number-higher-or-lower/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Guess Number Higher or Lower
+# ID            : 0374
+# URL           : https://leetcode.com/problems/guess-number-higher-or-lower/
+# Difficulty    : Easy
+# Language      : Python
+
 
 # The guess API is already defined for you.
 # @param num, your guess

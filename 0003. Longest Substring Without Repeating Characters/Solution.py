@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Longest Substring Without Repeating Characters
-# ID : 0003
-# Link : https://leetcode.com/problems/longest-substring-without-repeating-characters/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Longest Substring Without Repeating Characters
+# ID            : 0003
+# URL           : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:

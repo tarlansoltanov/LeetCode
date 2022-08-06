@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Minimum Operations to Reduce X to Zero
-# ID : 1658
-# Link : https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Minimum Operations to Reduce X to Zero
+# ID            : 1658
+# URL           : https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class Solution:
     def minOperations(self, nums: List[int], x: int) -> int:

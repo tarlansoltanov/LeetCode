@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Range Sum Query 2D - Immutable
-# ID : 0304
-# Link : https://leetcode.com/problems/range-sum-query-2d-immutable/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Range Sum Query 2D - Immutable
+# ID            : 0304
+# URL           : https://leetcode.com/problems/range-sum-query-2d-immutable/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class NumMatrix:
     matrix = [] 

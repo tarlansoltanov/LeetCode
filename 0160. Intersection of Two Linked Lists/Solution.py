@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Intersection of Two Linked Lists
-# ID : 0160
-# Link : https://leetcode.com/problems/intersection-of-two-linked-lists/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Intersection of Two Linked Lists
+# ID            : 0160
+# URL           : https://leetcode.com/problems/intersection-of-two-linked-lists/
+# Difficulty    : Easy
+# Language      : Python
+
 
 # Definition for singly-linked list.
 # class ListNode:

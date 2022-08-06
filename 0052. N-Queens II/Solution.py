@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : N-Queens II
-# ID : 0052
-# Link : https://leetcode.com/problems/n-queens-ii/
-# Level : Hard
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : N-Queens II
+# ID            : 0052
+# URL           : https://leetcode.com/problems/n-queens-ii/
+# Difficulty    : Hard
+# Language      : Python
+
 
 class Solution:
     def totalNQueens(self, n: int) -> int:

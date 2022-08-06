@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Two Sum II - Input Array Is Sorted
-# ID : 0167
-# Link : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Two Sum II - Input Array Is Sorted
+# ID            : 0167
+# URL           : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:

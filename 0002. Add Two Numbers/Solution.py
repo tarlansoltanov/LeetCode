@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Add Two Numbers
-# ID : 0002
-# Link : https://leetcode.com/problems/add-two-numbers/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Add Two Numbers
+# ID            : 0002
+# URL           : https://leetcode.com/problems/add-two-numbers/
+# Difficulty    : Medium
+# Language      : Python
+
 
 # Definition for singly-linked list.
 # class ListNode:

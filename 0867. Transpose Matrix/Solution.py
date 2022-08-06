@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Transpose Matrix
-# ID : 0867
-# Link : https://leetcode.com/problems/transpose-matrix/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Transpose Matrix
+# ID            : 0867
+# URL           : https://leetcode.com/problems/transpose-matrix/
+# Difficulty    : Easy
+# Language      : Python
+
 
 class Solution:
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:

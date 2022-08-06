@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : N-Queens
-# ID : 0051
-# Link : https://leetcode.com/problems/n-queens/
-# Level : Hard
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : N-Queens
+# ID            : 0051
+# URL           : https://leetcode.com/problems/n-queens/
+# Difficulty    : Hard
+# Language      : Python
+
 
 from itertools import permutations
     

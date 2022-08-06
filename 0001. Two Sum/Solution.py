@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Two Sum
-# ID : 0001
-# Link : https://leetcode.com/problems/two-sum/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Two Sum
+# ID            : 0001
+# URL           : https://leetcode.com/problems/two-sum/
+# Difficulty    : Easy
+# Language      : Python
+
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

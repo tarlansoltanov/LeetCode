@@ -1,9 +1,10 @@
-// Author : tarlansoltanov
-// Name : Remove Palindromic Subsequences
-// ID : 1332
-// Link : https://leetcode.com/problems/remove-palindromic-subsequences/
-// Level : Easy
-// Language : Python
+// Author        : tarlansoltanov
+// Title         : Remove Palindromic Subsequences
+// ID            : 1332
+// URL           : https://leetcode.com/problems/remove-palindromic-subsequences/
+// Difficulty    : Easy
+// Language      : Python
+
 
 bool checkPalindrome(string str){
     int i = 0;

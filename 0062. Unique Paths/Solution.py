@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Unique Paths
-# ID : 0062
-# Link : https://leetcode.com/problems/unique-paths/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Unique Paths
+# ID            : 0062
+# URL           : https://leetcode.com/problems/unique-paths/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:

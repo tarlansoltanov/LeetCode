@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Binary Search
-# ID : 0704
-# Link : https://leetcode.com/problems/binary-search/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Binary Search
+# ID            : 0704
+# URL           : https://leetcode.com/problems/binary-search/
+# Difficulty    : Easy
+# Language      : Python
+
 
 class Solution:
     def search(self, numbers: List[int], target: int) -> int:

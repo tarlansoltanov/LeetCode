@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Search Insert Position
-# ID : 0035
-# Link : https://leetcode.com/problems/search-insert-position/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Search Insert Position
+# ID            : 0035
+# URL           : https://leetcode.com/problems/search-insert-position/
+# Difficulty    : Easy
+# Language      : Python
+
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:

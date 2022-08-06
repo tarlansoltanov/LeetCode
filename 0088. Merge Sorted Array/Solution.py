@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Merge Sorted Array
-# ID : 0088
-# Link : https://leetcode.com/problems/merge-sorted-array/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Merge Sorted Array
+# ID            : 0088
+# URL           : https://leetcode.com/problems/merge-sorted-array/
+# Difficulty    : Easy
+# Language      : Python
+
 
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:

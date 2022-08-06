@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Triangle
-# ID : 0120
-# Link : https://leetcode.com/problems/triangle/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Triangle
+# ID            : 0120
+# URL           : https://leetcode.com/problems/triangle/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:

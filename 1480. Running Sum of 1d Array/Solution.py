@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Running Sum of 1d Array
-# ID : 1480
-# Link : https://leetcode.com/problems/running-sum-of-1d-array/
-# Level : Easy
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Running Sum of 1d Array
+# ID            : 1480
+# URL           : https://leetcode.com/problems/running-sum-of-1d-array/
+# Difficulty    : Easy
+# Language      : Python
+
 
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:

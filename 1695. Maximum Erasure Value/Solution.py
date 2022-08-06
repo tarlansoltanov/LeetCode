@@ -1,9 +1,10 @@
-# Author : tarlansoltanov
-# Name : Maximum Erasure Value
-# ID : 1695
-# Link : https://leetcode.com/problems/maximum-erasure-value/
-# Level : Medium
-# Language : Python
+# Author        : tarlansoltanov
+# Title         : Maximum Erasure Value
+# ID            : 1695
+# URL           : https://leetcode.com/problems/maximum-erasure-value/
+# Difficulty    : Medium
+# Language      : Python
+
 
 class Solution:
     def maximumUniqueSubarray(self, nums: List[int]) -> int:
