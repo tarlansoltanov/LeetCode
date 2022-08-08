@@ -1,6 +1,6 @@
 # Author        : tarlansoltanov
 # Title         : Find Smallest Letter Greater Than Target
-# ID            : 744
+# ID            : 0744
 # URL           : https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 # Difficulty    : Easy
 # Language      : Python
